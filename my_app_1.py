@@ -4,7 +4,7 @@
 # In[18]:
 
 
-get_ipython().system('pip install --upgrade protobuf')
+
 
 
 # In[23]:
